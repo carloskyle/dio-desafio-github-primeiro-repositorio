@@ -1,0 +1,18 @@
+Para criar um repositório basta ir no seu perfil do GitHub/Repositorios e ir em NEW.
+Adicionamos o READ.ME para um resumo do código, considerações e links úteis relacionados ao código.
+
+Para baixarmos o repositório para a nossa máquina local é muito fácil!
+- Basta pegar o link HTTPS no GitHub
+- Criamos uma pasta no nosso computador que será usada para o repositorio e clicamos com o botão direito em Git Bash Here
+- No prompt do Git escrevemos "git clone (link HTTPS)"
+E pronto, baixamos o código na nossa máquina local
+
+E quando fazemos uma alteração no nosso repositório na nossa máquina local? Simples!
+- Clicamos no Git Bash Here na pasta do repositório
+- Escreva "git add ."
+- E depois de adicionar fazemos o commit!
+- Para fazer o commit escreva "git commit -m "Comentário da Alteração"
+- E por ultimo fazemos o push para ir para o GitHub!
+- "git push origin main".
+
+E pronto! seu repositório foi atualizado.
